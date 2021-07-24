@@ -18,26 +18,5 @@ Diana DeGette received 272,892 votes, which is 73.8% of the total number of vote
 Raymon Anthony Doane received 11,606 votes, which is 3.1% of the total number of votes.
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?\
 Diana DeGette won the election with 272,892 votes, which is 73.8% of the total number of votes.
-Election Results
--------------------------
-Total Votes: 369,711
--------------------------
-
-County Votes:
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
--------------------------
-Largest County Turnout: Denver
--------------------------
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
-
 ## Summary
 This script can not only be used for the election Sam and Tom were covering, but it can be used for any election with modifications to the code. For example, we could alter the code for a Presidental election. Instead of showing the breakdown for each county, we would show a breakdown for each state. Also, we would add a breakdown of Republican votes vs. Democratic votes for each state and for the entire country. We could do the same for a State Governor election and breaking it down by county, instead of state. Another example, with this script, we could do a U.S. Senate race. Again, we would do a breakdown for each state of how many votes were cast. Also, we would alter the code to output the two winners from each state along with their number of votes and percentage.
