@@ -6,7 +6,7 @@ Sam and Tom needs our help analyzing the election data. The election commission 
 ![Election Results](analysis/election_analysis.PNG)\
 Text file of Election Analysis: ![Election Results](analysis/election_challenge.txt)
 * How many votes were cast in this congressional election?\
-The total votes cast in the election was 369,711 votes.
+The total votes cast in the election were 369,711 votes.
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.\
 Jefferson Couny had 38,855 votes cast in the election, which is 10.5% of the total number of votes.\
 Denver County had 306,055 votes cast in the election, which is 82.8% of the total number of votes.\
